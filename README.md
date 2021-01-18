@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![img](https://github.com/ag3n7/ag3n7/blob/main/images/208358.gif)
-<img src="https://tryhackme-badges.s3.amazonaws.com/ag3n7.png" alt="TryHackMe">
+1[thm](<img src="https://tryhackme-badges.s3.amazonaws.com/ag3n7.png" alt="TryHackMe">)
 
 <!--
 **ag3n7/ag3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

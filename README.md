@@ -1,5 +1,5 @@
 ### Hi there 👋
-![img](https://github.com/ag3n7/ag3n7/images/208358.gif)
+![img](https://github.com/ag3n7/ag3n7/blob/main/images/208358.gif)
 
 <!--
 **ag3n7/ag3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

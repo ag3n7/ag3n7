@@ -3,8 +3,6 @@
 
 
 ![stat](https://github-readme-stats.vercel.app/api?username=ag3n7&count_private=true&theme=dark&show_icons=true)
-![thm](https://github.com/ag3n7/ag3n7/blob/main/images/ag3n7.png)
-[TryHackMe](https://tryhackme.com/p/ag3n7)
 
 <!--
 **ag3n7/ag3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

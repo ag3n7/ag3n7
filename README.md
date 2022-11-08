@@ -1,6 +1,5 @@
-### Hi there 👋
-![img](https://github.com/ag3n7/ag3n7/blob/main/images/208358.gif)
-
+## Hi there, I'm Abhijith PK - aka [**ag3n7**] 👋
+### I am a Cyber Security Enthusiast 
 
 ![stat](https://github-readme-stats.vercel.app/api?username=ag3n7&count_private=true&theme=dark&show_icons=true)
 

@@ -19,4 +19,4 @@
 [instagram]: https://www.instagram.com/__a.pk__/
 [gmail]: mailto:ag3n7@duck.com
 
-![snake gif](https://github.com/ag3n7/ag3n7/blob/main/images/208358.gif)
+![snake gif](https://github.com/ag3n7/ag3n7/blob/main/images/github-contribution-grid-snake.svg)

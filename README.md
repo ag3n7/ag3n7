@@ -11,3 +11,8 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
+[twitter]: https://twitter.com/ag3n7apk/
+[linkedin]: https://www.linkedin.com/in/ag3n7/
+[instagram]: https://www.instagram.com/__a.pk__/
+[gmail]: mailto:

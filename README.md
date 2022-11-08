@@ -13,6 +13,6 @@
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 
 [twitter]: https://twitter.com/ag3n7apk/
-[linkedin]: https://www.linkedin.com/in/ag3n7/
+[linkedin]: https://www.linkedin.com/in/abhijith-pk-ag3n7/
 [instagram]: https://www.instagram.com/__a.pk__/
-[gmail]: mailto:
+[gmail]: mailto:ag3n7@duck.com

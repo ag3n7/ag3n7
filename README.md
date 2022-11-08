@@ -1,21 +1,13 @@
 ## Hi there, I'm Abhijith PK - aka **ag3n7** 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/ag3n7apk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ag3n7&screen_name=ag3n7apk)
 
-### I am a Cyber Security Enthusiast interested in Web Application Security,CTF Competitions
+### I am a Cyber Security Enthusiast interested in Web Application Security,CTF Competitions.
 
 ![ag3n7's github stats](https://github-readme-stats.vercel.app/api?username=ag3n7&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl)
 
-<!--
-**ag3n7/ag3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img width="20px" src="/img/mes.gif" width="120" height="40" /> Reach me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt=" Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]

@@ -5,6 +5,8 @@
 
 ![ag3n7's github stats](https://github-readme-stats.vercel.app/api?username=ag3n7&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=nightowl)
 
+![](https://komarev.com/ghpvc/?username=ag3n7&color=red&label=Visitors)
+
 ### 📫 Reach me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

@@ -3,7 +3,7 @@
 
 ### I am a Cyber Security Enthusiast interested in Web Application Security, CTF Competitions.
 
-![ag3n7's github stats](https://github-readme-stats.vercel.app/api?username=ag3n7&show_icons=true&theme=nightowl)
+![ag3n7's github stats](https://github-readme-stats.vercel.app/api?username=ag3n7&show_icons=true&count_private=true&theme=nightowl)
 
 ![](https://komarev.com/ghpvc/?username=ag3n7&color=red&label=Visitors)
 

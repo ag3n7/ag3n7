@@ -17,8 +17,7 @@
 [website]: https://ag3n7.github.io/
 [twitter]: https://twitter.com/ag3n7apk/
 [linkedin]: https://www.linkedin.com/in/abhijith-pk-ag3n7/
-[instagram]: https://www.instagram.com/__a.pk__/
-[gmail]: mailto:ag3n7@duck.com
+[email]: mailto:ag3n7@duck.com
 <br><br>
 > aGFwcHkgaGFja2luZyAuLiEgPDM
 
